@@ -1,4 +1,4 @@
-## **Desafio Controle de Incidentes** 📖 📃♀️ 🤾‍📭
+## **Desafio Controle de Incidentes** 📖 📃 📭
 
 ### Sobre ℹ️
 
