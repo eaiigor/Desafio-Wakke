@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iDSlV2Inz5qDu8tlAMLIkPf7LAR+1VPZ6LfNGpJZilZ9jNJ2bS8fEusRJMvgDe4eb1n6NnAdF9S7Gz0K1kXV1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coxinha\\source\\repos\\DesafioWakkeOficial\\DesafioWakkeOficial\\DesafioWakkeOficial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coxinha\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.115.5\\stub.system.data.sqlite.core.netstandard.1.0.115.5.nupkg.sha512",
+    "C:\\Users\\Coxinha\\.nuget\\packages\\system.data.sqlite.core\\1.0.115.5\\system.data.sqlite.core.1.0.115.5.nupkg.sha512"
+  ],
+  "logs": []
+}
